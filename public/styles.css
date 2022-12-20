@@ -8,6 +8,8 @@ html {
 }
 body {
   background: rgb(0, 0, 0);
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
   padding: 0 16px;
 }
 
